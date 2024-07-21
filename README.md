@@ -13,6 +13,9 @@ Released Heavenly ACIM Notifications Android App
 Created and released script to talk to ChatGPT in the bash terminal on Linux. 
 - https://github.com/MichaelTen/gpt-cli
 
+Created a way to fetch arweave html data to webpages using Javascript
+- https://github.com/MichaelTen/arweave-fetch
+
 ## 2024
 
 Created Wordpress plugins for slugs
