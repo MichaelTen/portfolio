@@ -1,6 +1,9 @@
 # portfolio
 Michael Ten's portfolio.
 
+Maybe added to https://michaelten.github.io/
+- https://github.com/MichaelTen/michaelten.github.io
+
 ## July 2024
 
 Started GPT Pushover - a way to use terminal prompts for ChatGPT and also send a PushOver notification to a mobile user. 
