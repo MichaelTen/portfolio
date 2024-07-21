@@ -3,14 +3,15 @@ Michael Ten's portfolio.
 
 ## July 2024
 
-Started GPT Pushover - a way to use terminal prompts for ChatGPT and also send a PushOver notification to a mobile user. https://github.com/MichaelTen/gpt-pushover
+Started GPT Pushover - a way to use terminal prompts for ChatGPT and also send a PushOver notification to a mobile user. 
+- https://github.com/MichaelTen/gpt-pushover
 
 ## June 2024
 
 Released Heavenly ACIM Notifications Android App
 
 Created and released script to talk to ChatGPT in the bash terminal on Linux. 
-https://github.com/MichaelTen/gpt-cli
+- https://github.com/MichaelTen/gpt-cli
 
 ## 2024
 
@@ -25,10 +26,10 @@ Setup and managed dozens of Wordpress Sites
 
 ## Years ago
 Started Defeat Aging DAO on GitHub
-https://github.com/DefeatAging/DAO
+- https://github.com/DefeatAging/DAO
 
 Started Crypto UBI DAO on GitHub
-https://github.com/CryptoUBI/DAO
+- https://github.com/CryptoUBI/DAO
 
 Managed MediaWiki installs. Utilized plugins and ensured compatibilty with most all Wikipedia formatted wiki syntax (some of which was not part of the default MediaWiki setup)
 
