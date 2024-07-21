@@ -28,9 +28,12 @@ Updated a python script to cleanly parse GPT export .json files into multiple ma
 
 ## 2024
 
+Created a Wordpress plugin for MediaWiki-like links in Wordpress.
+- https://github.com/MichaelTen/mediawiki-links
+
 Created Wordpress plugins for slugs
 
-Created Wordpress plugin for... 
+Created Wordpress plugin for...
 
 ## Past and present
 
