@@ -18,7 +18,7 @@ Created a way to fetch arweave html data to webpages using Javascript
 
 Updated a python script to cleanly parse GPT export .json files into multiple markdown files in separate folders, and have had several approved pull requests. 
 - https://github.com/MichaelTen/chatgpt-markdown (working repository)
--- https://github.com/gavi/chatgpt-markdown (original repository)
+- https://github.com/gavi/chatgpt-markdown (original repository)
 
 ## 2024
 
