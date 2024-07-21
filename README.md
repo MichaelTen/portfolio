@@ -16,6 +16,10 @@ Created and released script to talk to ChatGPT in the bash terminal on Linux.
 Created a way to fetch arweave html data to webpages using Javascript
 - https://github.com/MichaelTen/arweave-fetch
 
+Updated a python script to cleanly parse GPT export .json files into multiple markdown files in separate folders, and have had several approved pull requests. 
+- https://github.com/MichaelTen/chatgpt-markdown (working repository)
+-- https://github.com/gavi/chatgpt-markdown (original repository)
+
 ## 2024
 
 Created Wordpress plugins for slugs
