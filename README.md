@@ -19,7 +19,8 @@ Created repositiories
 - https://github.com/MichaelTen/projects
 
 ## December 2024
-### Created Markdown 2 HTML mini project. A **Markdown-to-HTML Converter** built with **Node.js** and **Express**, featuring a browser-based interface for real-time Markdown conversion to HTML. Users can input Markdown text, instantly view the generated HTML, and copy it for use. The app runs persistently on a server using **PM2** for auto-restart and LAN access.
+### Created Markdown 2 HTML mini project. 
+A **Markdown-to-HTML Converter** built with **Node.js** and **Express**, featuring a browser-based interface for real-time Markdown conversion to HTML. Users can input Markdown text, instantly view the generated HTML, and copy it for use. The app runs persistently on a server using **PM2** for auto-restart and LAN access.
 - https://github.com/MichaelTen/markdown2html
 
 ### Created working Wordpress plugin filter using browser console
