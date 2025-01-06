@@ -10,17 +10,16 @@ Michael Ten's portfolio.
 Maybe added to https://michaelten.github.io/
 - https://github.com/MichaelTen/michaelten.github.io
 
-## Repositories 
+### Repositories 
 Created repositiories 
 - https://github.com/MichaelTen?tab=repositories&q=&type=source&language=&sort=
 
 ### Projects
-
 - https://github.com/MichaelTen/projects
 
 #Portfolio by date
-
 ## January 2025
+### Extract GitHub Links
 Created a script to extra GitHub links for large text files that have Github Links that should be separted from the rest so they can be vied in an efficient way.  
 - https://github.com/MichaelTen/extract-GitHub-links
   
