@@ -36,7 +36,7 @@ A **Markdown-to-HTML Converter** built with **Node.js** and **Express**, featuri
 - https://github.com/MichaelTen/filter-wp-plugins
 
 ### Tags widget for WordPress
-  - https://github.com/MichaelTen/wp-tags-widget
+- https://github.com/MichaelTen/wp-tags-widget
 
 ## July 2024
 
