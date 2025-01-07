@@ -17,7 +17,7 @@ Created repositiories
 ### Projects
 - https://github.com/MichaelTen/projects 
 
-#Portfolio by date
+# Portfolio by date
 ## January 2025
 ### Extract GitHub Links
 Created a script to extra GitHub links for large text files that have Github Links that should be separted from the rest so they can be vied in an efficient way.  
