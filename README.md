@@ -26,6 +26,10 @@ Created a script to extra GitHub links for large text files that have Github Lin
 ### Edit Widget for WP
 Edit this page widget for WP
 - https://github.com/MichaelTen/wp-edit-widget
+
+### WP Random Post Widget
+WP Random Post Widget
+-https://github.com/MichaelTen/wp-random-plugin/tree/main
  
 ## December 2024
 ### Created Markdown 2 HTML mini project. 
