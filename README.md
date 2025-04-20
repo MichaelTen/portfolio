@@ -19,6 +19,10 @@ Created repositiories
 
 # Portfolio by date
 
+## April 2025
+Python Ollama Interface. Basic. Simple. 
+https://github.com/MichaelTen/PythonOLLM
+
 ## February 2025
 
 ### Node framework in one file
